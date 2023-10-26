@@ -43,7 +43,7 @@ public class GuestLink{
 		 * driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10)); }
 		 */
 		
-		System.setProperty("webdriver.chrome.driver","C:\\Users\\ShwetaGadhave\\OneDrive - Care IO, Inc\\Sweta\\Selenium\\Drivers\\chromedriver_win32\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","C:\\Users\\ShwetaGadhave\\git\\repository3\\Careioproject\\drivers\\chrome\\chromedriver.exe");
 		//WebDriver driver = new ChromeDriver();
 
 		ChromeOptions options = new ChromeOptions();

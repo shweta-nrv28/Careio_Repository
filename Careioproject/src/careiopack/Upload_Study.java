@@ -20,7 +20,7 @@ public class Upload_Study {
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
 		//Set chrome driver path
-		System.setProperty("webdriver.edge.driver","C:\\Users\\ShwetaGadhave\\OneDrive - Care IO, Inc\\Sweta\\Selenium\\Drivers\\edgedriver_win64\\edgedriver.exe");
+		System.setProperty("webdriver.edge.driver","C:\\Users\\ShwetaGadhave\\git\\repository3\\Careioproject\\drivers\\chrome\\chromedriver.exe");
 
 		ChromeOptions options = new ChromeOptions();
 		options.addArguments("--remote-allow-origins=*");

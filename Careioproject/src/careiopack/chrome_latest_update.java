@@ -12,7 +12,7 @@ public class chrome_latest_update {
 		// TODO Auto-generated method stub
 
 	
-		System.setProperty("webdriver.chrome.driver","C:\\Users\\ShwetaGadhave\\OneDrive - Care IO, Inc\\Sweta\\Selenium\\Drivers\\chromedriver_win32 (1)\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","C:\\Users\\ShwetaGadhave\\git\\repository3\\Careioproject\\drivers\\chrome\\chromedriver.exe");
 
 		
 		ChromeOptions options = new ChromeOptions();
